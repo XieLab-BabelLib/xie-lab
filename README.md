@@ -16,6 +16,10 @@ This is a static website. No build step or server-side dependencies are required
 
 ## GitHub Pages
 
+Website: https://xielab-babellib.github.io/
+
+Repository: `XieLab-BabelLib/xielab-babellib.github.io`. The `xie-lab/` folder redirects previously shared page URLs to their new root-level addresses, retaining query strings and anchors.
+
 Publish the `main` branch from the repository root. `.nojekyll` ensures the files are served without a Jekyll build.
 
 ## Reading-library updates
